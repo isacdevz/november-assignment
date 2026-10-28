@@ -112,7 +112,7 @@ Waray mag facilitate nga leader except hit incharge para tanan mag enjoy.
 
 | Date | Preacher |
 |------|----------|
-| Nov 7 | CG |
-| Nov 14 | Axcel |
+| Nov 7 | ethel |
+| Nov 14 | tintin |
 | Nov 21 | MK |
 | Nov 28 | Lael |
