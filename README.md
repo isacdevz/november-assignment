@@ -5,7 +5,7 @@
 ## 1. Truth about Halloween
 
 **Objective:** Truth about Halloween  
-**Price:** noottting since diri big event 
+**Prize:** noottting since diri big event 
 
 ### Program Flow
 
