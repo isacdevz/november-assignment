@@ -5,7 +5,7 @@
 ## 1. Truth about Halloween
 
 **Objective:** Truth about Halloween  
-**Price:** Waiting
+**Price:** noottting since diri big event 
 
 ### Program Flow
 
@@ -26,16 +26,16 @@
 - **Facilitator:** Lael
 - **Groups:** 4
 - **Materials:**
-  - Water bottle (4)
-  - Straw (1 pack)
+  - Water bottle (4) kon mayda recycle no need na pumalit
+  - Straw (1 pack) — 70 pesos
 
 #### Balloon in Cup
 
 - **Facilitator:** CG
 - **Groups:** 4
 - **Materials:**
-  - Balloons (50 pcs, size M)
-  - Cups (1 dozen)
+  - Balloons (50 pcs, size M) — 150 pesos
+  - Cups (1 dozen) — 50 pesos
 
 ### Note
 
@@ -57,11 +57,17 @@ Waray mag facilitate nga leader except hit incharge para tanan mag enjoy.
 | MC                      | Datdat                |
 | Opening Prayer          | MC                    |
 | Groupings & Orientation | MC                    |
-| amazing race            | MK, Glorina, CG, Lael |
+| amazing race            | MK, Glorina, CG, Lael, Datdat |
 | Scoring                 | Glors & Tin           |
 | Conclusion              | Isaac                 |
 | Pricing                 | MC                    |
 | Closing Prayer          | MC                    |
+
+### Conclusion
+
+**Bible Verse:** Ecclesiastes 4:9–10
+
+We do not have to face our struggles alone. When one of us feels down or falls during a difficult time, our brothers and sisters in Christ are there to help, encourage, and support us.
 
 ### Activity Setup
 
@@ -69,39 +75,78 @@ Waray mag facilitate nga leader except hit incharge para tanan mag enjoy.
 - **Groups:** 4
 - **Stations:** 5
 
+### Amazing Race Prizes
+
+#### 1st Place
+
+- Tender Care Hypoallergenic Powder, 25g: 11 pcs × 30 pesos = 330 pesos
+- Tawas powder: 11 pcs × 40 pesos = 440 pesos
+- **Total: 770 pesos**
+
+#### 2nd Place
+
+- Baby oil, 50ml: 11 pcs × 60 pesos = 660 pesos
+- **Total: 660 pesos**
+
+#### 3rd Place
+
+- Tissue paper: 11 pcs × 60 pesos = 660 pesos
+- **Total: 660 pesos**
+
+**Overall Total: 2,090 pesos**
+
+### Materials and Prices
+
+- Straw (1 pack): 70 pesos
+- Disposable cups (1 pack): 100 pesos
+- Handkerchiefs (11 pcs): 300 pesos
+- Ping-pong balls (6 pcs): 50 pesos minimum
+- **Total Material Cost: 520 pesos minimum**
+
+The following materials are already available and do not need to palit palit:
+
+- Bond paper (20)
+- Baldi
+- Wilkins
+
 ### Stations
 
 #### Station 1: Roll the Ball
 
 - **Facilitator:** MK
+- **Verses:** 1 Corinthians 1:10
 - **Materials:**
-  - Bond paper (20)
-  - Ping pong ball (6)
+  - Bond paper (20) — no additional purchase needed kon maka aro ha office
+  - Ping pong ball (6) —  50 pesos(min)
 
 #### Station 2: Carry the Number
 
 - **Facilitator:** Datdat
+- **Verses:** Galatians 6:2; Romans 15:1
 - **Materials:** None
 
 #### Station 3: Connect the Straw
 
 - **Facilitator:** Glorina
+- **Verses:** Ephesians 4:2–3; Proverbs 14:29
 - **Materials:**
-  - Straw (1 pack)
+  - Straw (1 pack) — 70 pesos
 
 #### Station 4: Water Bender
 
 - **Facilitator:** CG
+- **Verse:** 1 Corinthians 12:12–14
 - **Materials:**
-  - Cup (1 pack)
-  - Baldi
-  - Wilkins
+  - Disposable cup (1 pack) — 100 pesos
+  - Baldi — no additional purchase needed
+  - Wilkins — no additional purchase needed
 
 #### Station 5: Catch the Ball
 
 - **Facilitator:** Lael
+- **Verse:** Ephesians 4:15–16
 - **Materials:**
-  - Tela or panyo (10 pcs)
+  - Handkerchief (11 pcs) — 300 pesos
 
 ---
 
