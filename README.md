@@ -152,7 +152,7 @@ The following materials are already available and do not need to palit palit:
 
 ## 3. Saturday Preacher
 
-**Price:** Isaac  
+**Prize:** Isaac  
 **Amount:** 400 (100 per Saturday)
 
 | Date | Preacher |
